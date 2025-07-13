@@ -1,5 +1,3 @@
-- Now working at Nijibox as frontend dev in Tokyo.
-
 - 👋 Hi, I’m @sheleoni. My homepage is www.sheleoni.com
 - 👀 I’m interested in using code to make creative language learning happen.
 - 🌱 I’m currently creating projects with Vue JS, (Vanilla) JS, CSS and HTML, in my own time and during work.
